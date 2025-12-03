@@ -1,48 +1,6 @@
-Pular para o conteúdo principal
-Google Sala de Aula
-Sala de Aula
-2MA1 - MSA - Manutenção de Sistemas Automatizados
-Início
-Agenda
-Minhas inscrições
-Pendentes
-2
-2MA_LIP _2025/2
-2MA
-2
-2MA_ISAI _2025/2
-2MA
-2
-2MA1 - MSA - Manutenção de Sistemas Automatizados
-1
-1MA_FNA_2024_1
-1MA
-Turmas arquivadas
-Configurações
-Detalhes da atividade
-Manutenção de código - Parte 01
-RAFAEL FELIPE SCHROER
-•
-07:42 (editado: 08:01)
-100 pontos
-Data de entrega: 10 de dez.
-Tutorial_PT01.pdf
-PDF
-
-Planejamento_PT01.pdf
-PDF
-
-BACKUP_PROGRAMA_CLP.txt
-Texto
-
-Comentários da turma
-Seus trabalhos
-Atribuído
-Não é possível entregar atividades após a data de entrega
-Comentários particulares
 // PROGRAMA DE CONTROLE DE LINHA DE PRODUÇÃO - VERSÃO 1.0
 // Data: 02/2025
-// Autor: Seu Nome
+// Autor: João Victor
 // Descrição: Controle básico de esteira transportadora com sensor de presença
 
 // DEFINIÇÃO DE VARIÁVEIS
